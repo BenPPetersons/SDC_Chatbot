@@ -1,0 +1,25 @@
+{
+  "name": "sdc_chatbot",
+  "version": "1.0.0",
+  "description": "Liberty Software Development Club Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenPPetersons/SDC_Chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenPPetersons/SDC_Chatbot/issues"
+  },
+  "homepage": "https://github.com/BenPPetersons/SDC_Chatbot#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "openai": "^4.85.3"
+  }
+}
